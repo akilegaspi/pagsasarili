@@ -1,2 +1,2 @@
 # seryoso
-Autonomous zone
+pagsasarili zone
